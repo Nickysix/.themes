@@ -1,0 +1,34 @@
+# Name: Numix XFWM4 theme
+# Author: krig <krig@tiscali.it>
+# License: GPL-3.0+
+
+active_text_color=#d0d0d0
+inactive_text_color=#868686
+
+button_offset=8
+button_vertical_offset=4
+button_spacing=6
+
+frame_border_top=1
+
+show_app_icon=true
+
+full_width_title=true
+
+maximized_offset=0
+
+
+title_horizontal_offset=3
+title_shadow_active=false
+title_shadow_inactive=false
+title_vertical_offset_active=0
+title_vertical_offset_inactive=0
+title_shadow_active=false
+title_shadow_inactive=false
+
+shadow_delta_height=0
+shadow_delta_width=0
+shadow_delta_x=0
+shadow_delta_y=-6
+shadow_opacity=50
+
